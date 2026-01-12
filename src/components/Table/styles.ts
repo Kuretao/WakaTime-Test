@@ -59,7 +59,4 @@ export const CellDots = styled.div`
     border-radius: 8px;
     background: #18191A;
     
-    svg{
-        transform: translateX(50%);
-    }
 `;
