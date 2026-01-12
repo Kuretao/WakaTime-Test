@@ -240,7 +240,7 @@ Error generating stack: `+a.message+`
     width: 100%;
     height: 100%;
     min-height: 100vh;
-    padding: 0 19vw;
+    padding: 0 10vw;
 `,ug=St.main`
     border-radius: 12px;
     padding: 32px;
