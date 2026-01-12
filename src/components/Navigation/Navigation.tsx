@@ -113,7 +113,7 @@ export const TableNavigation: React.FC<PaginationProps> = ({
             </div>
 
             <PageInfo>
-                Показаны {startCount}–{endCount} из {totalCount} пользователей
+                Показано {startCount}–{endCount} из {totalCount} пользователей
             </PageInfo>
         </PaginationContainer>
     );
