@@ -1,0 +1,36 @@
+
+@forward 'reset';
+
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+  overflow-y: hidden;
+  scrollbar-width: none;
+}
+
+body {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+  color: #FAFCFF;
+}
